@@ -103,6 +103,10 @@ end
 Theta1_grad = (1 / m) * Delta1;
 Theta2_grad = (1 / m) * Delta2;
 
+% gradient regularization
+Theta1_grad = Theta1_grad + (lambda / m) * temp1;
+Theta2_grad = Theta2_grad + (lambda / m) * temp2;
+
 % -------------------------------------------------------------
 
 % =========================================================================
