@@ -74,7 +74,13 @@ h = a3;
 I = eye(num_labels);
 Y = I(y, :);
 
+temp1 = Theta1;
+temp1(:, 1) = 0;
+temp2 = Theta2;
+temp2(:, 1) = 0;
+
 J = (1 / m) * sum(sum(-Y .* log(h) - (1 - Y) .* log(1 - h)));
+J = J + ((lambda / (2 * m)) * (sum(sum(temp1 .^ 2)) + sum(sum(temp2 .^ 2))));
 
 % -------------------------------------------------------------
 
