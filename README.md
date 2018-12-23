@@ -49,3 +49,14 @@ Sigmoid Gradient |   5 /   5
 Neural Network Gradient (Backpropagation) |  40 /  40
 Regularized Gradient |  10 /  10
 | | 100 / 100
+
+### Week 6
+
+Part Name |     Score
+--------- |     -----
+Regularized Linear Regression Cost Function |  25 /  25
+Regularized Linear Regression Gradient |  25 /  25
+Learning Curve |  20 /  20
+Polynomial Feature Mapping |  10 /  10
+Validation Curve |  20 /  20
+| | 100 / 100
