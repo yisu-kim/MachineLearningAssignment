@@ -60,3 +60,13 @@ Learning Curve |  20 /  20
 Polynomial Feature Mapping |  10 /  10
 Validation Curve |  20 /  20
 | | 100 / 100
+
+### Week 7
+
+Part Name |     Score
+--------- |     -----
+Gaussian Kernel |  25 /  25
+Parameters (C, sigma) for Dataset 3 |  25 /  25
+Email Preprocessing |  25 /  25
+Email Feature Extraction |  25 /  25
+| | 100 / 100
