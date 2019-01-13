@@ -1,4 +1,5 @@
 # Machine Learning Assignment
+
 Assigments for Coursera Machine Learning Course by Andrew Ng
 
 ## Progress
@@ -59,3 +60,12 @@ Assigments for Coursera Machine Learning Course by Andrew Ng
 - [x] PCA
 - [x] Project Data (PCA)
 - [x] Recover Data (PCA)
+
+### Week 9
+
+- [x] Estimate Gaussian Parameters
+- [x] Select Threshold
+- [x] Collaborative Filtering Cost
+- [x] Collaborative Filtering Gradient
+- [x] Regularized Cost
+- [x] Regularized Gradient
